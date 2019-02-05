@@ -1,4 +1,4 @@
-fetch('http://amishin.pythonanywhere.com/', {
+fetch('https://amishin.pythonanywhere.com/', {
   mode: "cors"
 })
   .then(function(response) {
